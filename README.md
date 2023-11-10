@@ -41,8 +41,8 @@ The dataset used for this project contains historical rainfall data for Kerala, 
 
 ## Results
 
-- **Training Set Accuracy:** XX.XX%
-- **Testing Set Accuracy:** XX.XX%
-- **Precision:** X.XX
-- **Recall:** X.XX
-- **F1 Score:** X.XX
+- **Training Set Accuracy:** 90.43%
+- **Testing Set Accuracy:** 87.50%
+- **Precision:** 1.00
+- **Recall:** 0.79
+- **F1 Score:** 0.88
